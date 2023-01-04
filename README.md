@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Priyadharshan2003
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...B.Tech ECE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...priyan2003chandru@gmail.com
-
-<!---
 I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communication Engineering Course at Sona College of Technology, Salem. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-priyadharshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadharshan-chandranath/)](https://www.linkedin.com/in/priyadharshan-chandranath/)
@@ -40,4 +33,4 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=priyadharshan.priyadharshan)
 
---->
+
