@@ -9,12 +9,11 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=http://wa.me/+919442876978)](http://wa.me/+919442876978)
 [![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
-
+[![Discord](https://img.shields.io/badge/-Priyadharshan-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/@me/1019637829132886067)](https://discord.com/channels/@me/1019637829132886067)
 
 
 
 ## ⚡ Technologies
-
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,7 +38,7 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-Operating System
+## 🖥️ Operating System
 
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
