@@ -3,7 +3,7 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 [![Linkedin Badge](https://img.shields.io/badge/-priyadharshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadharshan-chandranath/)](https://www.linkedin.com/in/priyadharshan-chandranath/)
 [![Medium Badge](https://img.shields.io/badge/priyadharshan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@priyan2003chandru/)](https://medium.com/@priyan2003chandru/)
 [![Gmail Badge](https://img.shields.io/badge/-priyan2003chandru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyan2003chandru@gmail.com)](mailto:priyan2003chandru@gmail.com)
-![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%20-ff69bb.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/priyadharshan_chandranath/)
+[![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%20-ff69bb.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
 
 
 ## ⚡ Technologies
