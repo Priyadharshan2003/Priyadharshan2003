@@ -10,7 +10,7 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=http://wa.me/+919442876978)](http://wa.me/+919442876978)
 [![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
-[![Discord](https://img.shields.io/badge/-Priyadharshan-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=[https://discord.com/channels/@me/1019637829132886067](https://discord.com/users/860823328730382346)]([https://discord.com/channels/@me/1019637829132886067](https://discord.com/users/860823328730382346))
+[![Discord](https://img.shields.io/badge/-Priyadharshan-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/860823328730382346/)](https://discord.com/users/860823328730382346)
 
 
 
