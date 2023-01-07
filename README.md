@@ -5,6 +5,13 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 [![Gmail Badge](https://img.shields.io/badge/-priyan2003chandru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyan2003chandru@gmail.com)](mailto:priyan2003chandru@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
 
+##  😃 Social 
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=http://wa.me/+919442876978)](http://wa.me/+919442876978)
+[![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
+
+
+
 
 ## ⚡ Technologies
 
