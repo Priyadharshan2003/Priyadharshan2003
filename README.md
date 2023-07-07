@@ -4,14 +4,22 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 [![Medium Badge](https://img.shields.io/badge/priyadharshan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@priyan2003chandru/)](https://medium.com/@priyan2003chandru/)
 [![Gmail Badge](https://img.shields.io/badge/-priyan2003chandru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyan2003chandru@gmail.com)](mailto:priyan2003chandru@gmail.com)
 
-
-
 ##  😃 Social 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=http://wa.me/+919442876978)](http://wa.me/+919442876978)
 [![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
 [![Discord](https://img.shields.io/badge/-Priyadharshan-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/860823328730382346/)](https://discord.com/users/860823328730382346)
 
+## 👨‍💻 Programming
+
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&link=https://auth.geeksforgeeks.org/user/priyan200t19t)](https://auth.geeksforgeeks.org/user/priyan200t19t)]
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/priyan2003chandru/)](ttps://leetcode.com/priyan2003chandru/)]
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/priyadharshan003)](https://www.hackerrank.com/priyadharshan003)]
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
 ## ⚡ Technologies
@@ -21,7 +29,6 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
