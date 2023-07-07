@@ -12,9 +12,9 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 
 ## 👨‍💻 Programming
 
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&link=https://auth.geeksforgeeks.org/user/priyan200t19t)](https://auth.geeksforgeeks.org/user/priyan200t19t)]
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/priyan2003chandru/)](ttps://leetcode.com/priyan2003chandru/)]
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/priyadharshan003)](https://www.hackerrank.com/priyadharshan003)]
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&link=https://auth.geeksforgeeks.org/user/priyan200t19t)](https://auth.geeksforgeeks.org/user/priyan200t19t)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/priyan2003chandru/)](https://leetcode.com/priyan2003chandru/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/priyadharshan003)](https://www.hackerrank.com/priyadharshan003)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
