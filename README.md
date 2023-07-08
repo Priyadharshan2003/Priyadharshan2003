@@ -18,7 +18,7 @@ I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communic
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/prichan2003)](https://www.codechef.com/users/prichan2003)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/priyadharshan-the-typescripter)](https://codepen.io/priyadharshan-the-typescripter)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@priyan2003chandru)](https://www.hackerearth.com/@priyan2003chandru)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)](https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
 ## ⚡ Technologies
